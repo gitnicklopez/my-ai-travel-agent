@@ -20,9 +20,13 @@ This AWS-powered AI agent leverages Bedrock, Lambda, and API Gateway to process 
 
 # Key Features
 ✔ Automated Restaurant & Hotel Search – Retrieves and filters dining & accommodation options.
+
 ✔ Customizable Preferences – Supports queries based on fine dining, pet policies, pools, and saunas.
+
 ✔ Scalable Serverless Architecture – Optimized with AWS Lambda for efficient processing.
+
 ✔ Real-Time JSON Responses – Delivers structured, actionable insights for customer interactions.
+
 ✔ Robust Error Handling – Implements logging and exception management to ensure reliability.
 
 # Use Cases
